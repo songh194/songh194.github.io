@@ -1,0 +1,46 @@
+h1 {
+	font-family: "Arial Narrow", Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	margin: 0;
+	font-size: 4.5rem;
+	line-height: 1;
+	color: rgba(0, 0, 0, 0.85);
+	letter-spacing: 0;
+    display: inline;
+}
+h1:hover {
+    cursor:pointer;
+    color:rgb(133, 133, 133);
+}
+
+details > summary {
+    list-style: none;
+  }
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
+  
+
+details {
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+}
+
+summary {
+    width: fit-content;
+    height: fit-content;
+}
+
+span {
+	font-family: "Arial Narrow", Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	margin: 0;
+	font-size: 4.5rem;
+	line-height: 1;
+	color: rgba(0, 0, 0, 0.85);
+	letter-spacing: 0;
+    display: inline;
+} 
