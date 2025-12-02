@@ -127,13 +127,19 @@ a:hover{
 }
 .footer a:hover {
     color: #888;
+    text-decoration: underline;
 }
 .footer .go-back-arrow {
     font-size: 2rem;
     vertical-align: right;
     padding-left: 0.5em;
     margin-right: 1rem;
+
 }
+.footer .go-back-arrow:hover{
+    text-decoration: none;
+}
+
 
 .footer-left {
   display: flex;
