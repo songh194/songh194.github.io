@@ -226,7 +226,11 @@ a:hover{
   }
 
 
+.bio {
+  color:#b0b0b0;
+  line-height: 1;
 
+}
 
 
 /* Responsive tweaks */
