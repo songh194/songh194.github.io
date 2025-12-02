@@ -257,5 +257,8 @@ a:hover{
         font-size: 1rem;
         padding: 1em 0 1em 0;
     }
+    .footer-left {
+      gap:0.6em;
+    }
 }
 
