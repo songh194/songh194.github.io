@@ -21,7 +21,6 @@ a:hover{
     flex: 1 1 auto;
     display: flex;
     overflow: hidden; /* Prevent main from scrolling, columns scroll instead */
-    max-width: 1200px;
     margin: 0 auto;
     width: 100%;
     box-sizing: border-box;
@@ -170,7 +169,7 @@ a:hover{
   .thumbnail-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 1rem;
+    gap: 0.5rem;
     margin-top: 0.7rem;
   }
   
